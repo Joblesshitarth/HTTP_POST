@@ -5,8 +5,8 @@
 #define ledPin 6
 #define pirPin 5
 
-const char* ssid = "Airtel_My_Network";
-const char* password = "9910357357";
+const char* ssid = "";
+const char* password = "";
 
 const char* serverUrl = "http://httpbin.org/post";
 
